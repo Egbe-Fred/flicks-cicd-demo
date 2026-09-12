@@ -8,4 +8,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: say hello
-        run: echo "hello from flicks organizations"
+        run: |
+          echo "Hello from Flicks"
+          echo "We're hear to Serve at your Pleasure"
+          echo "Your Satisfaction our mission"
+          
+
